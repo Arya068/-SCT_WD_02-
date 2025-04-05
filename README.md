@@ -13,10 +13,6 @@ Here is A simple and elegant stopwatch web app built using HTML, CSS, and javaSC
 - **CSS** – Styling and responsive layout  
 - **JavaScript** – Stopwatch logic and interactivity
 
- 📸 Screenshot
-
-![Stopwatch UI](screenshot.png)  
-<sub>*Replace this with your actual screenshot file*</sub>
 
  📂 Project Structure
 
