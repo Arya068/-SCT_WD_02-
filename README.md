@@ -16,13 +16,12 @@ Here is A simple and elegant stopwatch web app built using HTML, CSS, and javaSC
 
  📂 Project Structure
 
-```
+
 stopwatch/
 │
 ├── index.html          # HTML structure
 ├── style.css           # CSS styling
 └── script.js           # JavaScript logic
-```
 
 📌 How to Use
 
