@@ -9,19 +9,9 @@ Here is A simple and elegant stopwatch web app built using HTML, CSS, and javaSC
 
 🛠️ Technologies Used
 
-- **HTML** – Structure of the web page  
-- **CSS** – Styling and responsive layout  
-- **JavaScript** – Stopwatch logic and interactivity
-
-
- 📂 Project Structure
-
-
-stopwatch/
-│
-├── index.html          # HTML structure
-├── style.css           # CSS styling
-└── script.js           # JavaScript logic
+- HTML – Structure of the web page  
+- CSS – Styling and responsive layout  
+- JavaScript – Stopwatch logic and interactivity
 
 📌 How to Use
 
